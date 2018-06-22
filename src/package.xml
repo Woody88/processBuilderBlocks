@@ -3,8 +3,6 @@
 	<types>
 		<members>ConnectAPIHelper</members>
 		<members>ConnectAPIHelperTest</members>
-		<members>GiveWorkThanksAction</members>
-		<members>GiveWorkThanksActionTest</members>
 		<members>PBBAddPermSet</members>
 		<members>PBBApexDebug</members>
 		<members>PBBCalloutMocks</members>
